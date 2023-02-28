@@ -1,0 +1,23 @@
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  color: #111111;
+}
+
+p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #566477;
+}
+
+h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  color: #111111;
+} /*# sourceMappingURL=main.css.map */
